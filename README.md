@@ -1,1 +1,3 @@
-# firstrepo
+# This is first git repo
+
+Author - Ritik Kumar
