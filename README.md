@@ -1,2 +1,3 @@
 # This is first git repo <br>
-Author - Ritik Kumar(Babu)
+Author - Ritik Kumar (Ritik Aapna college)
+
